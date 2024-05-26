@@ -22,6 +22,12 @@ But there's more to me than just coding. I am an avid sports fan, and I have rep
 
 As a passionate software developer and football player, I have come to appreciate the similarities between coding and sports. Both require discipline, patience, and the ability to think on your feet.
 
+## 📫 How to reach me
+I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharan-murli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murli@usc.edu)
+
 ## 🚀💻 Technologies & Tools
 
 ### Languages
@@ -84,6 +90,3 @@ As a passionate software developer and football player, I have come to appreciat
 ## 📈 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharanmurli&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/sharan-murli)
-- [Email](mailto:murli@usc.edu)
