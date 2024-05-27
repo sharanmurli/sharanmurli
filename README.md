@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 
-I am Sharan Murli, a Master's student of Computer Science, currently on a journey of discovery and growth at University of Southern California (USC). My love for coding and software development allows me to express my creativity and brings to life innovative solutions to real-world problems. I am excited to continue learning and growing in the field of computer science and to create software that makes a meaningful impact in people's lives. In the past, I have worked as an intern and undertaken various projects in the field of web development, software development, UI and UX design. 
+I am Sharan Murli, a Master's student of Computer Science, currently on a journey of discovery and growth at University of Southern California (USC). My love for coding and software development allows me to express my creativity and brings to life innovative solutions to real-world problems. With over one and a half years of internship experience, beginning in my third year of undergraduate studies, I have honed my skills in web development, software development, UI/UX design, and full-stack development. I am excited to continue learning and growing in the field of computer science, creating software that makes a meaningful impact on people's lives.
 
 ## 🌟 Current Interests
 
