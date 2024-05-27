@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 I am Sharan Murli, a Master's student of Computer Science, currently on a journey of discovery and growth at University of Southern California (USC). My love for coding and software development allows me to express my creativity and brings to life innovative solutions to real-world problems. I am excited to continue learning and growing in the field of computer science and to create software that makes a meaningful impact in people's lives. In the past, I have worked as an intern and undertaken various projects in the field of web development, software development, UI and UX design. 
 
+## 🌟 Current Interests
+
+I am particularly passionate about Full Stack development and Machine Learning. My interest lies in designing intuitive user interfaces and developing robust backend systems that enhance user experience. Additionally, I am fascinated by the potential of machine learning to solve complex problems and create smarter applications. I look forward to leveraging my skills and knowledge in these areas to build innovative solutions that drive positive change.
+
+## ⚽ My Passion
+
 But there's more to me than just coding. I am an avid sports fan, and I have represented my school in district-level football. For me, football is more than just a game. It's a passion that has been burning inside me since I was a child. The thrill of the competition, the rush of adrenaline, the satisfaction of scoring a goal - it's what keeps me coming back for more. When I'm not on the field, I'm studying the game, analyzing strategies, and honing my skills. Whether I'm playing in a competitive match or just kicking the ball around with friends, football is an essential part of who I am. 
 
 As a passionate software developer and football player, I have come to appreciate the similarities between coding and sports. Both require discipline, patience, and the ability to think on your feet.
