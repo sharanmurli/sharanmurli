@@ -35,7 +35,9 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murli@usc.edu)
 
 ## 💼 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sharanmurli.github.io/portfolio/)
+<a href="https://sharanmurli.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
+</a>
 
 ## 🚀💻 Technologies & Tools
 
