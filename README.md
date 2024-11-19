@@ -97,5 +97,6 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📈 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharanmurli&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?sharanmurli=DenverCoder1)](https://git.io/streak-stats)
 
