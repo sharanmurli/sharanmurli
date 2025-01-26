@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 
-I am Sharan Murli, a Master's student of Computer Science, currently on a journey of discovery and growth at University of Southern California (USC). My love for coding and software development allows me to express my creativity and brings to life innovative solutions to real-world problems. With over one and a half years of internship experience, beginning in my third year of undergraduate studies, I have honed my skills in web development, software development, UI/UX design, and full-stack development. I am excited to continue learning and growing in the field of computer science, creating software that makes a meaningful impact on people's lives.
+I am Sharan Murli, a recent graduate with a Master's in Computer Science from the University of Southern California (USC). My love for coding and software development allows me to express my creativity and brings to life innovative solutions to real-world problems. With over one and a half years of internship experience, beginning in my third year of undergraduate studies, I have honed my skills in web development, software development, UI/UX design, and full-stack development. Along with my early internships, I have gained valuable experience as a Software and IT Analyst at USC Marshall School of Business and as a Software Engineering Intern at WorkUp. I have also worked on AI and LLM-based projects, further broadening my expertise in cutting-edge technologies.es.
 
 ## 🌟 Current Interests
 
@@ -98,5 +98,6 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?sharanmurli=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sharanmurli)](https://git.io/streak-stats)
+
 
