@@ -98,6 +98,6 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sharanmurli)](https://git.io/streak-stats)
+[![Sharan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharanmurli&show_icons=true&theme=radical)](https://github.com/sharanmurli)
 
 
